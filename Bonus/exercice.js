@@ -1,1 +1,1 @@
-$("selecteur").hide();
+$("table tr:odd").hide();
